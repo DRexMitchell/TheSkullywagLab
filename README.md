@@ -1,2 +1,7 @@
 # TheSkullywagLab
-R code for tutorials
+
+Ahoy there Skullywags!
+
+In this repo, you can find coding tricks from the lab tutorials.
+
+Happy coding!
